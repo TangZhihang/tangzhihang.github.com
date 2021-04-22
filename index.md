@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## <center style='color:black;'>  汤志航 | CruiseTang  </center>
+## <center style='color:black'>  汤志航 | CruiseTang  </center>
 + Email:tangzhihang@zju.edu.cn
 
 ## Education
