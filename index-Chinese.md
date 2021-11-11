@@ -1,6 +1,6 @@
-## Welcome to CruiseTang's Resume 
+## Welcome to CruiseTang's Resume
 
-## <center style='color:black;'>  CruiseTang  </center>
+## <center style='color:blue;'>  CruiseTang  </center>
 
 ## avatar 
   <img src="./imgs/img1.jpg" width=203 height=135/>  
@@ -13,22 +13,11 @@
 * Region：Hangzhou,China.
 
 ## Education
+2018.09-2021.03   Zhejiang Univiersity,Hangzhou, China <br/>
 
-+ **Undergraduate**
+College of Control Science and Engineering.<br/>
 
-  2018.09-2021.03   Zhejiang Univiersity,Hangzhou, China <br/>
-
-  College of Control Science and Engineering.<br/>
-
-  Master student in Control Science and Engineering.<br/>
-
-+ **Postgraduate**
-
-  2018.09-2021.03   Zhejiang Univiersity,Hangzhou, China <br/>
-
-  College of Control Science and Engineering.<br/>
-
-  Master student in Control Science and Engineering.<br/>
+Master student in Control Science and Engineering.<br/>
 
 ## Working Experiences
 
