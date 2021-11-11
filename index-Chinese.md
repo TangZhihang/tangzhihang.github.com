@@ -1,7 +1,5 @@
 ##  <center> 欢迎访问汤志航的简历 </center>
 
-
-
 ## <center style='color:black;'>  汤志航</center>
 
 ## 头像
@@ -29,28 +27,36 @@
 
 2015.09-2017.09 中国人民武装警察部队 侦察员.<br/>
 
-2021.04-now  之江实验室   软件工程师 <br/>
+2021.04-now  之江实验室    工程师 <br/>
 
 ## 技能
-+ python
-+ matlab
-+ pytorch,tensorflow
-## Projects
++ python、matlab、C++编程
++ 机器学习、深度学习，pytorch,tensorflow框架
++ 最优化，多目标优化，数学建模
 
-待完善
+
+
+## 项目经历
+
+​	待完善
 
 ## 荣誉奖励
-2018.
 
-Excellent graduate student of Zhejiang University,2019.
+​	上海电力大学优秀毕业生     2018.06
 
-Outstanding graduate cadres of Zhejiang University,2019.
+​	上海市优秀毕业生 				2018.06
+
+​	浙江大学优秀团干			     2019.05
+
+​	浙江大学优秀研究生 			2019.10
+
+​	浙江大学优秀研究生干部 	2019.10
 
 ## Hobbies
-running,swimming,badminton,movies
+跑步、游泳、羽毛球、看电影。
 
-## about me
+## 关于我
 
-I'm a 
+一个默默奋斗的草根90后。
 
-[英文版](./index)
+[English](./index)
