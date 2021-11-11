@@ -2,6 +2,8 @@
 
 ## <center style='color:blue;'>  汤志航 | CruiseTang  </center>
 
+## avatar 
+  <img src="./imgs/img1.jpg" width=203 height=135/>  
 
 ## Informations
 
