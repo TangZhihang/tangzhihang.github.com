@@ -32,19 +32,20 @@
 
 ## Working Experiences
 
-2015.09-2017.09 Chinese People's Armed Police Force, Guangzhou, China.<br/>
+  2015.09-2017.09 Chinese People's Armed Police Force, Guangzhou, China.<br/>
 
-2021.04-now  ZhejiangLab ,Hangzhou,China  <br/>
+  2021.04-now  ZhejiangLab ,Hangzhou,China  <br/>
 
-Intelligent supercomputing Research Center. <br/>
+  Intelligent supercomputing Research Center. <br/>
 
-Junior Engineer <br/>
+  Junior Engineer <br/>
+
 ## Skills
 + python
 + matlab
 + pytorch,tensorflow
 ## Projects
-
+wating to implement...
 
 
 ## Awards & Honors
@@ -60,3 +61,5 @@ running,swimming,badminton,movies
 ## about me
 
 I'm a 
+
+[! 中文版](./index-Chinese)
