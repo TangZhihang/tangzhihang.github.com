@@ -1,6 +1,8 @@
-## 欢迎访问汤志航的简历
+##  <center> 欢迎访问汤志航的简历 </center>
 
-## <center style='color:blue;'>  汤志航</center>
+
+
+## <center style='color:black;'>  汤志航</center>
 
 ## 头像
   <img src="./imgs/img1.jpg" width=203 height=135/>  
