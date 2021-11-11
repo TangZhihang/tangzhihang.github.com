@@ -62,4 +62,4 @@ running,swimming,badminton,movies
 
 I'm a 
 
-[! 中文版](./index-Chinese)
+[中文版](./index-Chinese)

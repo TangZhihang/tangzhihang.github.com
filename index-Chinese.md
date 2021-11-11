@@ -1,43 +1,44 @@
-## Welcome to CruiseTang's Resume
+## 欢迎访问汤志航的简历
 
-## <center style='color:blue;'>  CruiseTang  </center>
+## <center style='color:blue;'>  汤志航</center>
 
-## avatar 
+## 头像
   <img src="./imgs/img1.jpg" width=203 height=135/>  
 
-## Informations
+## 个人信息
 
-* Major: Cotrol science.
-* Email: tangzhihang@zju.edu.cn 
-* Mobile：17788589119
-* Region：Hangzhou,China.
+* 专业: 控制科学与工程.
+* 电子邮箱l: tangzhihang@zju.edu.cn 
+* 手机号：+86-17788589119
+* 地区：中国·杭州
 
-## Education
-2018.09-2021.03   Zhejiang Univiersity,Hangzhou, China <br/>
+## 教育经历
++ 2012.09-2018.06  上海电力大学     
 
-College of Control Science and Engineering.<br/>
+  ​	自动化工程学院			本科生
 
-Master student in Control Science and Engineering.<br/>
+  
 
-## Working Experiences
++ 2018.09-2021.03      浙江大学         
 
-2015.09-2017.09 Chinese People's Armed Police Force, Guangzhou, China.<br/>
+  ​	控制科学与工程学院 硕士研究生.<br/>
 
-2021.04-now  ZhejiangLab ,Hangzhou,China  <br/>
+## 工作经历
 
-Intelligent supercomputing Research Center. <br/>
+2015.09-2017.09 中国人民武装警察部队 侦察员.<br/>
 
-Junior Engineer <br/>
-## Skills
+2021.04-now  之江实验室   软件工程师 <br/>
+
+## 技能
 + python
 + matlab
 + pytorch,tensorflow
 ## Projects
 
+待完善
 
-
-## Awards & Honors
-Shanghai outstanding graduates,2018.
+## 荣誉奖励
+2018.
 
 Excellent graduate student of Zhejiang University,2019.
 
@@ -49,3 +50,5 @@ running,swimming,badminton,movies
 ## about me
 
 I'm a 
+
+[英文版](./index)
