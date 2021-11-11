@@ -8,7 +8,7 @@
 ## 个人信息
 
 * 专业: 控制科学与工程.
-* 电子邮箱l: tangzhihang@zju.edu.cn 
+* 电子邮箱: tangzhihang@zju.edu.cn 
 * 手机号：+86-17788589119
 * 地区：中国·杭州
 
