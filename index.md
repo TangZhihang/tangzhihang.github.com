@@ -12,7 +12,11 @@ Master student in Control Science and Engineering.<br/>
 
 
 ## Awards & Honors
-...
+Shanghai outstanding graduates,2018.
+
+Excellent graduate student of Zhejiang University,2019.
+
+Outstanding graduate cadres of Zhejiang University,2019.
 
 ## Hobbies
-...
+running,swimming,badminton，movies
