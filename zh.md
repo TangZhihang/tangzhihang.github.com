@@ -55,6 +55,7 @@
 
 ## 关于我
 
-一个默默奋斗的草根90后。
+我是汤志航，出生于皖南的小山村，上海求学，广州服兵役，最终读研工作生活在杭州，一个热爱技术不愿屈服于命运的草根90后。
 
-[English](./index)
+[English](https://zhihangtang.github.io/resume)
+

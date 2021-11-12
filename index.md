@@ -60,6 +60,6 @@ running,swimming,badminton,movies
 
 ## about me
 
-I'm a 
+I am Tang Zhihang. I was born in a small mountain village in southern Anhui. I studied in Shanghai and served in the military in Guangzhou. Finally, I went to graduate school, worked and lived in Hangzhou. I am a grassroots post-90s generation who loves technology and is unwilling to yield to fate.
 
-[中文版](./index-Chinese)
+[中文版](./zh)
