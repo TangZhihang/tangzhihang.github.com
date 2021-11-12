@@ -41,8 +41,13 @@
 
 ## Skills
 + python
+
 + matlab
+
 + pytorch,tensorflow
+
+
+
 ## Projects
 wating to implement...
 
