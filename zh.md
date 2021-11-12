@@ -2,7 +2,6 @@
 
 ## <center style='color:black;'>  汤志航</center>
 
-## 头像
   <img src="./imgs/img1.jpg" width=203 height=135/>  
 
 ## 个人信息
@@ -50,7 +49,7 @@
 
 ​	浙江大学优秀研究生干部 	2019.10
 
-## Hobbies
+## 兴趣爱好
 跑步、游泳、羽毛球、看电影。
 
 ## 关于我

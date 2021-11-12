@@ -2,7 +2,6 @@
 
 ## <center style='color:black;'>  CruiseTang  </center>
 
-## avatar 
   <img src="./imgs/img1.jpg" width=203 height=135/>  
 
 ## Informations
@@ -30,7 +29,7 @@
 
   Master student in Control Science and Engineering.<br/>
 
-## Working Experiences
+## Working experiences
 
   2015.09-2017.09 Chinese People's Armed Police Force, Guangzhou, China.<br/>
 
@@ -58,7 +57,7 @@ Outstanding graduate cadres of Zhejiang University,2019.
 ## Hobbies
 running,swimming,badminton,movies
 
-## about me
+## About me
 
 I am Tang Zhihang. I was born in a small mountain village in southern Anhui. I studied in Shanghai and served in the military in Guangzhou. Finally, I went to graduate school, worked and lived in Hangzhou. I am a grassroots post-90s generation who loves technology and is unwilling to yield to fate.
 
