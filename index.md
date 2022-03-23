@@ -15,11 +15,11 @@
 
 + **Undergraduate**
 
-  2018.09-2021.03   Zhejiang Univiersity,Hangzhou, China <br/>
+  2012.09-2018.06   Shanghai Univiersity of Electric Power,Shanghai, China <br/>
 
-  College of Control Science and Engineering.<br/>
+  College of Automation Engineering.<br/>
 
-  Master student in Control Science and Engineering.<br/>
+  Undergraduate student major in Automation.<br/>
 
 + **Postgraduate**
 
